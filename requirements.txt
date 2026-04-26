@@ -1,0 +1,5 @@
+azure-functions
+openai>=1.40.0
+azure-search-documents>=11.4.0
+azure-core>=1.30.0
+pymupdf>=1.24.0
