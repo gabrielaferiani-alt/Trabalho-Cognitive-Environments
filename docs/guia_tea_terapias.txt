@@ -1,0 +1,233 @@
+GUIA DE TERAPIAS E INTERVENÇÕES PARA O TRANSTORNO DO ESPECTRO AUTISTA (TEA)
+Elaborado para profissionais e famílias — uso educacional
+
+================================================================================
+1. O QUE É O TRANSTORNO DO ESPECTRO AUTISTA (TEA)
+================================================================================
+
+O Transtorno do Espectro Autista (TEA) é uma condição do neurodesenvolvimento
+caracterizada por diferenças persistentes na comunicação social e por padrões
+restritos e repetitivos de comportamento, interesses ou atividades. O diagnóstico
+é clínico e baseado nos critérios do DSM-5 (Manual Diagnóstico e Estatístico de
+Transtornos Mentais, 5ª edição).
+
+O TEA é um espectro amplo: cada pessoa autista possui um perfil único de pontos
+fortes e desafios. Alguns indivíduos têm alto nível de suporte em comunicação
+verbal, enquanto outros se comunicam de formas alternativas. O diagnóstico precoce
+— idealmente antes dos 3 anos — está associado a melhores resultados funcionais,
+pois possibilita o início das intervenções nas janelas de maior plasticidade cerebral.
+
+Sinais de alerta que podem indicar necessidade de avaliação:
+- Ausência de balbucio ou gestos aos 12 meses
+- Ausência de palavras únicas aos 16 meses
+- Ausência de frases espontâneas de duas palavras aos 24 meses
+- Perda de habilidades de linguagem ou sociais em qualquer idade
+- Pouco contato visual ou dificuldade em seguir o olhar do cuidador
+
+================================================================================
+2. TERAPIA ABA — ANÁLISE DO COMPORTAMENTO APLICADA
+================================================================================
+
+A Análise do Comportamento Aplicada (ABA, do inglês Applied Behavior Analysis) é
+a abordagem com maior evidência científica para o tratamento do TEA. Baseia-se nos
+princípios do behaviorismo e utiliza técnicas sistemáticas de ensino e modificação
+de comportamento.
+
+Princípios fundamentais da ABA:
+- Reforço positivo: comportamentos desejados são incentivados por consequências
+  agradáveis (elogios, fichas, acesso a atividade preferida)
+- Análise funcional: antes de intervir, identifica-se a função do comportamento
+  (o que o mantém)
+- Ensino por tentativas discretas (DTT): habilidades complexas são divididas em
+  passos pequenos e ensinadas de forma estruturada
+- Naturalístico (NET — Natural Environment Teaching): aprendizado acontece em
+  contextos cotidianos e motivadores para a criança
+
+Evidências: Estudos de alta qualidade demonstram que intervenções intensivas em
+ABA (25–40 horas semanais) iniciadas precocemente levam a ganhos significativos
+em linguagem, habilidades sociais e funcionamento adaptativo.
+
+Considerações éticas: A ABA moderna rejeita práticas punitivas. O objetivo não é
+"normalizar" a criança, mas ampliar seu repertório de habilidades funcionais e
+sua qualidade de vida. O planejamento deve ser individualizado (BCBA — Board
+Certified Behavior Analyst) e reavaliado periodicamente.
+
+================================================================================
+3. TERAPIA FONOAUDIOLÓGICA E COMUNICAÇÃO ALTERNATIVA (CAA)
+================================================================================
+
+A fonoaudiologia é fundamental para pessoas com TEA, pois aborda tanto a
+comunicação verbal quanto as formas alternativas de expressão.
+
+Comunicação Aumentativa e Alternativa (CAA):
+Para crianças sem linguagem oral funcional, a CAA oferece recursos que ampliam a
+capacidade de expressão e compreensão. Os principais sistemas são:
+
+PECS (Picture Exchange Communication System):
+O PECS é um sistema de comunicação por troca de figuras desenvolvido por Bondy e
+Frost. A criança aprende a entregar uma figura para solicitar um item desejado.
+O protocolo tem 6 fases progressivas:
+  Fase I   — Troca física da figura por um item desejado
+  Fase II  — Persistência e distância
+  Fase III — Discriminação entre figuras
+  Fase IV  — Estrutura de sentença ("Eu quero ___")
+  Fase V   — Resposta à pergunta "O que você quer?"
+  Fase VI  — Comentários espontâneos
+
+Dispositivos de comunicação com saída de voz (VOCA/SGDs):
+Tablets e aplicativos como Proloquo2Go, LetMeTalk e Grid 3 permitem que a criança
+selecione símbolos ou palavras que o dispositivo verbaliza. São especialmente
+indicados para indivíduos com boa habilidade motora fina e visual.
+
+================================================================================
+4. TERAPIA DIR/FLOORTIME
+================================================================================
+
+O modelo DIR (Developmental, Individual-Difference, Relationship-based), também
+conhecido como Floortime, foi desenvolvido pelo Dr. Stanley Greenspan. Ao contrário
+de abordagens mais estruturadas, o DIR prioriza o desenvolvimento emocional e
+relacional da criança.
+
+Os três eixos do modelo:
+- D (Desenvolvimento): leva em conta os marcos do desenvolvimento socioemocional
+- I (Individual-Difference): respeita o perfil sensorial e motor único da criança
+- R (Relationship-based): o vínculo afetivo é o motor da aprendizagem
+
+O Floortime é a técnica principal: o adulto desce ao nível da criança (literalmente,
+no chão), segue sua liderança e expande as interações a partir dos interesses dela.
+O objetivo é criar "círculos de comunicação" — trocas de ida e volta que ampliam
+a atenção conjunta, a intencionalidade e a reciprocidade.
+
+Indicação: especialmente útil para crianças com dificuldades profundas de
+engajamento e para fortalecer o vínculo com os cuidadores.
+
+================================================================================
+5. TERAPIA OCUPACIONAL E INTEGRAÇÃO SENSORIAL
+================================================================================
+
+Muitas pessoas com TEA apresentam processamento sensorial atípico: hiper ou
+hipossensibilidade a sons, texturas, luzes, sabores e propriocepção. A terapia
+ocupacional com foco em integração sensorial (IS) aborda essas dificuldades.
+
+Objetivos da terapia ocupacional no TEA:
+- Melhorar a regulação sensorial e emocional
+- Desenvolver habilidades de vida diária (AVD): alimentação, higiene, vestir-se
+- Aprimorar coordenação motora fina e grossa
+- Promover participação em contextos escolares e sociais
+
+A "dieta sensorial" é um conjunto personalizado de atividades que proveem input
+sensorial regulador ao longo do dia (ex.: pular, abraçar, morder objetos seguros).
+
+================================================================================
+6. INTERVENÇÃO MEDIADA POR PAIS (PMI)
+================================================================================
+
+Programas de intervenção mediada por pais (Parent-Mediated Intervention) capacitam
+os cuidadores a aplicar estratégias terapêuticas no cotidiano, maximizando as
+oportunidades de aprendizagem fora das sessões clínicas.
+
+Exemplos de programas com evidência:
+- ESDM (Early Start Denver Model): combina ABA e abordagem relacional; pais são
+  treinados para implementar o programa em casa
+- Hanen "More Than Words": programa canadense de treinamento de pais focado em
+  comunicação funcional
+- Naturalistic Developmental Behavioral Interventions (NDBIs): grupo de abordagens
+  que combinam ABA naturalística com desenvolvimento infantil
+
+Evidências: Estudos randomizados demonstram que quando os pais são co-terapeutas
+ativos, os ganhos das crianças são maiores e mais generalizáveis.
+
+================================================================================
+7. LEGISLAÇÃO BRASILEIRA SOBRE TEA
+================================================================================
+
+Lei 12.764/2012 — Lei Berenice Piana:
+Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do
+Espectro Autista. Reconhece o TEA como deficiência e garante:
+- Acesso à educação e ao ensino especializado
+- Proteção contra discriminação
+- Acesso a serviços de saúde, incluindo diagnóstico precoce, terapias e medicamentos
+
+Lei 13.977/2020 — Lei Romeo Mion:
+Cria a Carteira de Identificação da Pessoa com Transtorno do Espectro Autista
+(CIPTEA), que garante atendimento prioritário em serviços públicos e privados.
+A carteira é emitida gratuitamente pelos estados e municípios.
+
+Plano de Saúde (ANS):
+A Resolução Normativa nº 539/2022 da ANS estabelece que os planos de saúde são
+obrigados a cobrir todas as sessões de terapias prescritas por médico (ABA,
+fonoaudiologia, terapia ocupacional, psicologia) sem limitação de número de sessões,
+seguindo as diretrizes de utilização publicadas.
+
+================================================================================
+8. DIAGNÓSTICO E FERRAMENTAS DE AVALIAÇÃO
+================================================================================
+
+O diagnóstico do TEA é realizado por equipe multidisciplinar e se baseia em:
+
+Instrumentos padronizados de triagem:
+- M-CHAT-R/F (Modified Checklist for Autism in Toddlers): triagem para crianças
+  de 16 a 30 meses; aplicado em consultas pediátricas de rotina
+- SCQ (Social Communication Questionnaire): questionário respondido pelos pais;
+  adequado para crianças acima de 4 anos
+
+Instrumentos de avaliação diagnóstica:
+- ADOS-2 (Autism Diagnostic Observation Schedule, 2ª edição): observação
+  semiestruturada do comportamento; considerada o "padrão ouro" observacional
+- ADI-R (Autism Diagnostic Interview - Revised): entrevista detalhada com os pais
+  sobre o histórico do desenvolvimento
+
+Avaliação neuropsicológica: avalia QI, perfil cognitivo, funções executivas,
+memória e linguagem — fundamentais para planejar intervenções educacionais.
+
+================================================================================
+9. AUTISMO E ESCOLA: INCLUSÃO E SUPORTE EDUCACIONAL
+================================================================================
+
+A Lei 13.005/2014 (PNE) e a LDBEN (Lei 9.394/96) garantem às pessoas com TEA
+o direito à educação inclusiva em escolas regulares com suporte especializado.
+
+Estratégias de suporte escolar:
+- Profissional de Apoio Escolar (PAE/Cuidador): auxilia na rotina e nas atividades
+- Sala de Recursos Multifuncionais (SRM): atendimento educacional especializado
+  no contraturno
+- Adaptações curriculares: simplificação de tarefas, tempo estendido em provas,
+  uso de recursos visuais e CAA
+- Suporte comportamental positivo (PBS): estratégias preventivas e de ensino de
+  comportamentos alternativos na escola
+
+Estrutura e previsibilidade: crianças com TEA se beneficiam de rotinas visuais,
+antecipação de transições e ambientes com estímulos sensoriais controlados.
+
+================================================================================
+10. PERGUNTAS FREQUENTES DOS PAIS
+================================================================================
+
+P: Qual terapia devo começar primeiro após o diagnóstico?
+R: Fonoaudiologia e terapia comportamental (ABA ou similar) são geralmente as
+prioridades logo após o diagnóstico, especialmente se houver atraso de linguagem.
+A terapia ocupacional é adicionada conforme o perfil sensorial e motor da criança.
+O ideal é uma avaliação multidisciplinar para montar um plano individualizado.
+
+P: Quantas horas de terapia são recomendadas por semana?
+R: As pesquisas indicam benefício com intervenções intensivas (15–40 horas/semana
+de atividades estruturadas, incluindo participação dos pais). O número exato depende
+do perfil e das necessidades da criança, e deve ser definido com a equipe terapêutica.
+
+P: O TEA tem cura?
+R: O TEA é uma condição neurológica permanente, não uma doença a ser curada.
+Com intervenções adequadas, muitas pessoas com TEA desenvolvem habilidades que
+lhes permitem viver de forma independente e satisfatória. O objetivo das terapias
+é ampliar a qualidade de vida e a autonomia, não eliminar a identidade autista.
+
+P: Meu filho pode ir para escola regular?
+R: Sim. A legislação brasileira garante o direito à educação inclusiva. Escolas
+regulares são obrigadas a oferecer suporte (profissional de apoio, adaptações
+curriculares) conforme a necessidade do aluno. Em alguns casos, classes especiais
+ou escolas especializadas são complementos válidos, conforme avaliação individual.
+
+P: Como funciona o atendimento pelo plano de saúde?
+R: Após a Resolução ANS 539/2022, os planos de saúde são obrigados a cobrir
+terapias para TEA sem limite de sessões, desde que prescritas por médico. Em caso
+de negativa, o usuário pode registrar reclamação no site da ANS ou buscar orientação
+no PROCON.
